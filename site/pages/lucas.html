@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Lucas de Leon - Receita - Bife á Parmegiana</h1>
+        <h1>Lucas de Leon - Receita - Bife à Parmegiana</h1>
     </header>
 
     <nav>
@@ -16,7 +16,10 @@
 
     <section>
         <h2>Receita - Bife à Parmegiana</h2>
-        <img src="../resources/img/bife-a-parmegiana.jpg" alt="">
+        <p><img src="../resources/img/bife-a-parmegiana-03-redimensionada.png" alt="">
+           <img src="../resources/img/bife-a-parmegiana-redimensionada.png" alt="">
+           <img src="../resources/img/bife-a-parmegiana-02-redimensionada.png" alt="">
+           <img src="../resources/img/bife-a-parmegiana-04-redimensionado.png" alt="">
         <h3>Ingredientes</h3>
         <ul>
             <li>2 bifes de filé mignon (com cerca de 1 cm de espessura)</li>
@@ -104,7 +107,39 @@
         </table>
     </section>
 
-    
+    <article>
+        <h2> Avalie:</h2>
+        <form>
+            <label>
+                Seu nome: <input type="text">
+            </label>
+            <br>
+            <label>
+                Seu email: <input type="text">
+            </label>
+            <br>
+            <label>
+                Nota para o prato: <br>
+                <input type="range" min="0" max="10">  
+            </label>
+            <br>
+            <label>
+                Envie uma foto do seu prato <strong>(opcional)</strong>: <br>
+                <input type="file" name="prato" accept=".png, .jpg">
+            </label>
+            <br>
+            <label>
+                Deixe suas sugestões <strong>(opcional)</strong>: <br>
+                <textarea name="sugestões"></textarea>
+            </label>
+            <br> <br>
+            
+            <input type="submit" value="Enviar"> 
+
+        </form>
+        <br>
+        <hr>
+    </article>
     <audio src="../resources/audio/le-festin.mp3" autoplay loop></audio>
     
 </body>
