@@ -1,0 +1,72 @@
+Relatório de Correção – Grupo 03
+Índice
+O documento não passou no validador.
+
+
+O cabeçalho não contém o texto “Índice – Grupo n”.
+
+
+Cleiton Bernardo Batista
+O documento não passou no validador.
+
+
+Sugestão: utilizar mais divisores semânticos apropriados.
+
+
+Faltam marcações com <strong> e <em>.
+
+
+Diego Sfoggia
+Erro: documento não passou no validador.
+
+
+Comentário: até agora, foi o melhor aluno no quesito “Por que assistir ao filme?”.
+
+
+Sugestão: usar <article> em vez de apenas <section>.
+
+
+Faltou o uso de elementos semânticos.
+
+
+Não há lista descritiva (<dl>).
+
+
+As imagens não possuem texto alternativo (alt).
+
+
+O rodapé está duplicado (dois elementos <footer>).
+
+
+Lucas de Leon
+O documento não passou no validador.
+
+
+Faltou uma introdução sobre a origem da receita (sugestão: incluir um link para a Wikipédia).
+
+
+Não foi explicado por que a receita foi escolhida.
+
+
+Não foi informada a dificuldade da receita.
+
+
+As imagens foram agrupadas, quando deveriam estar separadas entre introdução e galeria.
+
+
+Não foi incluída uma música temática para o preparo da receita.
+
+
+Os ingredientes deveriam estar organizados em uma lista detalhada. A tabela utilizada deveria conter as colunas “Ingrediente | Quantidade | Observações”, mas está incompleta.
+
+
+O link do Instagram não funciona.
+
+
+Faltou o uso adequado de elementos semânticos.
+
+
+Não há lista descritiva (<dl>).
+
+
+As imagens estão sem textos alternativos significativos (alt).
